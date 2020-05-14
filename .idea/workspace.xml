@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1bd5843-bb9e-4662-8a45-71fe841fac4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/call.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/call.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/header.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/header.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/inline.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/inline.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/inputs.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/inputs.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/message.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/message.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/results.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/cweill/gotests/templates/testify/results.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/lint/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/lint/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/tools/go/expect/testdata/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/tools/go/expect/testdata/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/tools/internal/lsp/mod/testdata/unchanged/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/tools/internal/lsp/mod/testdata/unchanged/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/tools/internal/lsp/testdata/indirect/primarymod/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/tools/internal/lsp/testdata/indirect/primarymod/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/lint/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/lint/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/mod/gosumcheck/test.bash" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/mod/gosumcheck/test.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/make.bash" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/make.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/upload.bash" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/upload.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/toolstash/buildall" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/toolstash/buildall" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/go/expect/testdata/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/expect/testdata/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/integration/govim/run_local.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/integration/govim/run_local.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/integration/govim/run_tests_for_cloudbuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/integration/govim/run_tests_for_cloudbuild.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/mod/testdata/unchanged/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/mod/testdata/unchanged/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/reset_golden.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/reset_golden.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/testdata/indirect/primarymod/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/testdata/indirect/primarymod/go.mod" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/cweill/gotests" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1bqTpsjJ6O2G6c6BuXuBlAXSl1Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1bd5843-bb9e-4662-8a45-71fe841fac4f" name="Default Changelist" comment="" />
+      <created>1589358809515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589358809515</updated>
+      <workItem from="1589358812736" duration="202000" />
+      <workItem from="1589359035247" duration="528000" />
+      <workItem from="1589360575245" duration="466000" />
+      <workItem from="1589361050608" duration="211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tmp/node_modules/mqtt/test/typescript/broker-connect-subscribe-and-publish.js.map" />
+        <option value="$PROJECT_DIR$/tmp/node_modules/mqtt/test/typescript/broker-connect-subscribe-and-publish.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+</project>

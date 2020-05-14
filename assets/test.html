@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>测试</title>
+ </head>
+ <body>
+  从数据库读取可能为null值得值时，可以选择使用sql.NULL***来读取；或者使用IFNULL、COALESCE等命令让数据库查询值返回不为”“或者NULL
+若需要往数据库中插入null值，则依然可以使用sql.NULL***存储所需的值，然后进行插入NULL值
+直接使用sql.NULL***类型容易出现valid遗漏设置等问题，普通int、string与其转换时，请写几个简单的get、set函数
+ </body>
+</html>
