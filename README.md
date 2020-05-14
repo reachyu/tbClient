@@ -1,5 +1,5 @@
 # 简介
-* 基于[Eclipse Paho MQTT Go client](https://github.com/eclipse/paho.mqtt.golang)、GIN框架实现ThingsBoard提供的MQTT、HTTP API
+* 基于[Eclipse Paho MQTT Go client](https://github.com/eclipse/paho.mqtt.golang)、[GIN](https://github.com/gin-gonic/gin)框架实现ThingsBoard提供的MQTT、HTTP API
 * 设备功能：上传设备遥测信息、上传设备属性、订阅信息
 * 网关功能：上传设备遥测信息、上传设备属性、订阅信息
 * api使用说明请见api.md
@@ -16,7 +16,7 @@ GIN框架启动http服务实现
 配置文件
 svcconfig.go配置httpservice目录提供的http服务，GIN框架启动的时候会监听这些配置的http服务
 ## samples
-ThingsBoard的MQTT、HTTP API服务使用sample
+MQTT、HTTP API服务使用sample
 
 # 编译
 ```

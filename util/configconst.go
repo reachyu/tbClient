@@ -1,3 +1,3 @@
 package util
 
-const IotServer = "http://120.25.167.36:8080"
+const IotServer = "http://192.168.0.1:8080"
