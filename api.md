@@ -9,7 +9,7 @@
 ## 上传设备遥测信息
 参见samples目录device_subscribe_attribute.go、gateway_subscribe_attribute.go
 
-# HTTP
+# HTTP服务说明
 * 已经限定只能127.0.0.1访问，如果不需要，请注释httpserver\httpserver.go中方法InitHttpServer()的代码router.Use(checkHost())
 ## 获取设备属性
 ### api url
